@@ -115,7 +115,7 @@ Pour une première réunion sur la mise en place de la surveillance avec Prometh
 
 En abordant ces points, vous fournirez une vue d'ensemble complète de la solution de surveillance proposée et définirez une feuille de route claire pour les prochaines étapes.
 
-//------------------------------------------------------------------------------------------
+//                        ------------------------------------------------------------------------------------------
 
 Intégrer Upptime à votre défi avec Prometheus et Grafana peut être une excellente idée, surtout si votre objectif est de surveiller la disponibilité de vos services web et d'autres ressources. Voici comment vous pouvez l'intégrer et pourquoi cela pourrait être bénéfique :
 
